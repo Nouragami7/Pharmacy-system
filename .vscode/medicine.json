@@ -1,0 +1,15 @@
+{ 
+ "med": 
+[
+{ "name": "panadol", "id": 1, "quantity": 20, "price": 18, "type": "Pills", "Manufacture": "03/02/2020", "expDate": "03/01/2023"},
+{ "name": "Keoram", "id": 2, "quantity": 30, "price": 58, "type": "Pills", "Manufacture": "08/08/2021", "expDate": "03/07/2023"},
+{ "name": "Voltarin", "id": 3, "quantity": 15, "price": 14, "type": "Injection", "Manufacture": "04/02/2021", "expDate": "03/05/2024"},
+{ "name": "Cataflam", "id": 4, "quantity": 10, "price": 24, "type": "Pills", "Manufacture": "02/01/2023", "expDate": "06/01/2024"},
+{ "name": "Ranitidine", "id": 5, "quantity": 9, "price": 48, "type": "Liquid", "Manufacture": "04/07/2021", "expDate": "03/09/2023"},
+{ "name": "Antinal", "id": 6, "quantity": 20, "price": 18, "type": "Liquid", "Manufacture": "04/02/2022", "expDate": "03/01/2023"},
+{ "name": "Antocide", "id": 7, "quantity": 25, "price": 15, "type": "Pills", "Manufacture": "20/05/2022", "expDate": "04/08/2023"},
+{ "name": "Omperazol", "id": 8, "quantity": 20, "price": 18, "type": "Capsul", "Manufacture": "07/06/2021", "expDate": "03/09/2025"},
+{ "name": "Minoxidil", "id": 9, "quantity": 20, "price": 88, "type": "Pills", "Manufacture": "04/01/2021", "expDate": "05/06/2023"},
+{ "name": "Paracetamol", "id": 10, "quantity": 10, "price": 58, "type": "pills", "Manufacture": "07/03/2020", "expDate": "03/01/2023"}
+]
+}
